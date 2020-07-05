@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.massivecraft</groupId>
+  <artifactId>factions</artifactId>
+  <versioning>
+    <release>qataria</release>
+    <versions>
+      <version>2.14.0</version>
+      <version>qataria</version>
+    </versions>
+    <lastUpdated>20190112191819</lastUpdated>
+  </versioning>
+</metadata>

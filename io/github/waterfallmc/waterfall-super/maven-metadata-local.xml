@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.waterfallmc</groupId>
+  <artifactId>waterfall-super</artifactId>
+  <versioning>
+    <versions>
+      <version>1.13.2-R0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190118145943</lastUpdated>
+  </versioning>
+</metadata>
